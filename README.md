@@ -1,0 +1,1 @@
+Site updated to follow accessibility standards and clean up code
